@@ -1,9 +1,7 @@
 ## Introduction
-
 Date Counter allows users to calculate dates in the past or future relative to today. By adjusting the step size and clicking buttons, users can easily navigate days forward or backward and instantly see the resulting calendar date.
 
 ## Features
-
 - **Adjustable Step Size**: Slide the range input to change how many days to move per click (0–7 days).
 - **Increment & Decrement**: Quickly add or subtract the selected number of days.
 - **Manual Entry**: Directly input a number to set the day offset.
@@ -30,7 +28,6 @@ Date Counter allows users to calculate dates in the past or future relative to t
    Navigate to `http://localhost:3000` to view the app.
 
 ## Project Structure
-
 ```
 ├── public
 │   └── index.html
@@ -42,7 +39,6 @@ Date Counter allows users to calculate dates in the past or future relative to t
 ```
 
 ## Technologies Used
-
 - **React** (Hooks: useState)
 - **JavaScript** (ES6+)
 - **CSS** (Flexbox, Linear Gradients)
