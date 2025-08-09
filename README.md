@@ -43,7 +43,7 @@ Date Counter allows users to calculate dates in the past or future relative to t
 - **JavaScript** (ES6+)
 - **CSS** (Flexbox, Linear Gradients)
 
-## 👨‍💻 Learnings
+## 👨‍💻 Learning
 
 - **React Hooks**: Managed component state using `useState`.
 - **Controlled Components**: Learned to sync input values with component state.
